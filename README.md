@@ -2,7 +2,7 @@
 - 🧭 More than 30 years in IT
 - 🕶️ Product management (the product not the team), software architecture, design and development 
 - ♾️ DevOps, Agile, Scrum (and for those who remember... RUP and UML)
-- 🕸️ React, Angular, TypeScript, Node.js, JavaScript (and for those who remember... C++, Java, Lisp, Prolog, Corba) 
+- 🕸️ React, Angular, TypeScript, Node.js, JavaScript (and for those who remember... C++, Java, Lisp, Prolog, CORBA) 
 - 〰️ Relational and NoSQL databases
 - 👀 I’m currently inspired by DAOs and interested in Web3 
 - 🌱 I’m currently learning smart contracts essentially with Solidity 
