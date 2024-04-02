@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Dro-Mader
 - 🧭 More than 30 years in IT
-- 🕶️ Product management (the product not the team), software architecture, design and development
-- 🎯 DDD, Event Driven Architectures and Microservices
-- ♾️ DevOps, Agile, Scrum (and for those who remember... RUP and UML)
-- 🕸️ React, Angular, TypeScript, Node.js, JavaScript (and for those who remember... C++, Java, Lisp, Prolog, CORBA) 
+- 🕶️ Product management - the product not the team-, software architecture, design and development
+- 🎯 DDD and Microservices
+  - Event Driven Architectures, CQRS, Event sourcing 
+- ♾️ DevOps, Agile, Scrum
+  - (and for those who remember... RUP and UML)
+- 🕸️ React, Angular, TypeScript, Node.js, JavaScript, Python
+  - (and for those who remember... Java, C++, Lisp, Prolog, CORBA) 
 - 〰️ Relational and NoSQL databases
 
 
